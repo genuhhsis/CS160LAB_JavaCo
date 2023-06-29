@@ -1,0 +1,10 @@
+Black Coffee=9
+CARAMEL=4
+Espresso=8
+Hot Water=100
+MOCHA=4
+Milk=10
+Sugar=9
+VANILLA=5
+Whipped Cream=5
+
