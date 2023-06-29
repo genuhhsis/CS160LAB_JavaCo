@@ -47,6 +47,11 @@ Steven Nguyen -  The TA leading the CS160 SUM2023 class
 Joshua Concepcion - My project partner that I collaborated for the beginning of this project
 
 For my "twist" theses were the refences I used
-This class was largely inspired from the following YouTube video:  @see <a href= "https://www.youtube.com/watch?v=FdQX8sUNO-s&ab_channel=WinstonLievsay"> Reference video by: Winston Lievsay  </a> 
-This reference was also good for looking up additional information on GUI @see <a href= "https://www.geeksforgeeks.org/jlabel-java-swing/"> GeeksforGeeks: Java Swing </a>
-This reference was also used for making my Gui @see <a href= "https://www.geeksforgeeks.org/creating-frames-using-swings-java/"> GeeksforGeeks: Creating Frames using Swings in Java</a>
+This class was largely inspired from the following YouTube video:  
+@see <a href= "https://www.youtube.com/watch?v=FdQX8sUNO-s&ab_channel=WinstonLievsay"> Reference video by: Winston Lievsay  </a> 
+
+This reference was also good for looking up additional information on GUI 
+@see <a href= "https://www.geeksforgeeks.org/jlabel-java-swing/"> GeeksforGeeks: Java Swing </a>
+
+This reference was also used for making my Gui 
+@see <a href= "https://www.geeksforgeeks.org/creating-frames-using-swings-java/"> GeeksforGeeks: Creating Frames using Swings in Java</a>
