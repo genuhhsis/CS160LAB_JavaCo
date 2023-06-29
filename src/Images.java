@@ -101,7 +101,7 @@ public class Images extends JFrame {
      * Each instance of an image is separated by the image labels
      */
     public void updateImagesDecorator() {
-        // Update the image icons
+        /* Update the image icons */
 
         JPanel panel = new JPanel();
         panel.setLayout(new BoxLayout(panel, BoxLayout.Y_AXIS));
@@ -153,7 +153,7 @@ public class Images extends JFrame {
      * Removes the previous images and labels, and adds the new ones.
      */
     public void updateImagesFlavor() {
-        // Update the image icons
+        /* Update the image icons */
         getContentPane().removeAll();
 
         flavorVANILLA = new ImageIcon(getClass().getResource("vanilla.jpg"));
@@ -181,6 +181,9 @@ public class Images extends JFrame {
         repaint();
     }
 
+    /**
+     * Closes the image GUI when called upon
+     */
     public void closeGUI() {
         getContentPane().removeAll();
         revalidate();
@@ -188,6 +191,10 @@ public class Images extends JFrame {
         dispatchEvent(new WindowEvent(this, WindowEvent.WINDOW_CLOSING));
     }
 
+
+    /**
+     * This was my testing main to see if the GUI was being correctly created.
+     */
     public static void main(String args[]){
         Images gui = new Images();
         gui.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
