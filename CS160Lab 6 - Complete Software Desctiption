@@ -1,0 +1,28 @@
+Lab 6
+CS160L-1001-1002 SUMMER 2023
+Genesis Anne Villar
+28 June 2023
+                                                 CS160Lab 6 -Explanation of Images.java
+
+  To Java Coffee Co..
+  
+    After six grueling weeks, the menu order interface has been completed! I took the liberty
+of implementing a functional GUI that will complement the menu ordering system. With the
+barebones of the program, the menu ordering system functions as you have asked, but I figured
+that customers would want to know what they're ordering. That's where Images.java comes in.
+This class provides a crucial visual component to the ordering process, enhancing the overall
+user experience and satisfaction.
+    The inclusion of the GUI in Images.java is a valuable addition to the menu ordering
+system for several reasons. First and foremost, it offers a visually appealing representation of the
+available drinks and their corresponding prices. Customers are more likely to engage with a
+menu that provides visual cues, as it helps them make informed decisions about their selections.
+By incorporating images of the various coffee options, such as black coffee and espresso,
+alongside their respective price information, the GUI empowers customers to make choices
+based on their preferences and budget.
+    Furthermore, the dynamic nature of the GUI in Images.java greatly enhances usability.
+The images and labels are updated in real time as the user navigates through the menu options.
+When a new coffee is created, the GUI automatically refreshes to display the updated images and
+prices. Similarly, when the user enters the decorator menu, the GUI adjusts accordingly to show
+the available options, such as hot water, milk, sugar, whipped cream, and flavored syrups, with
+their respective prices. This seamless integration ensures that customers have the most up-to-date
+and accurate information throughout their ordering journey.
