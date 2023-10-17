@@ -1,0 +1,23 @@
+ My coding was based on meeting the porject dsecriptions of the clience given below...
+
+
+                                          Java Coffee Corporation123 Arabica AvenueAnytown, CA 12345
+To whom it may concern,
+        Java Coffee Co. is an international company that serves a variety of coffee products to customers all over the world. We specialize in providing over 30 different combinations of coffees and add-ons to our customers worldwide. 
+Recently, it has come to our attention that various locations are using different ordering and tracking software. This has resulted in lost revenue tracking and our customers expressing frustration with the ordering process. As a result, we have decided to task your organization with building a coffee ordering system that can be used at all our coffee shops.
+        - This software should have a few very important features. 
+        - First, we need a seamless way to create a coffee order and allow it to be highly customizable. 
+         - The ordering system should be able to create one or more coffees for any given order.
+          - Additionally, a customer may want to order just a black coffee, but they should also be able to add sugar, milk, whipped cream, and other flavorful customizations. 
+          - The coffee ordering system and the creation of the coffee should be done independently so that we can seamlessly update coffee customizations across all locations. 
+
+    For the ordering system, we would also like a way to print an error message if there is an issue with an order or a bug in the system. That way our employees can send us known issues.
+
+      - In addition to a coffee creation tool and an ordering system, we would like a way to track, display, and store information about coffee orders for any given location.
+      - More specifically, we want to know the total sales accumulated for a given time period, which drink orders are the most popular, and the average customer order cost, as well as being able to write and read coffee orders.
+
+For writing orders, we would like every order to be saved to a .csv file. 
+    - Each day when the employee relaunches the software, they should be able to read all of the previous orders.
+
+We look forward to seeing your proposal,
+JCC Board of Directors
